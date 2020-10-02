@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="Веселый Водовоз" Height="450" Width="800">
     <Window.Resources>
-        <Style TargetType="TextBlock">
+        <Style TargetType="TextBlock"> 
             <Setter Property="FontSize" Value="14" />
         </Style>
         
